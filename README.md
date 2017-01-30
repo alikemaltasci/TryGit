@@ -1,3 +1,2 @@
 # TryGit
-I want to try something about git here
-Changed sth for fix11
+just for playing for getting understand the git
